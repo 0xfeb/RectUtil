@@ -1,3 +1,5 @@
+本工具作废, 已经将对应功能转移到Coastline库中去. 
+
 将CGPoint, CGSize, CGRect三种类型添加运算符重载. 
 
 例子:
